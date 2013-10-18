@@ -1,12 +1,12 @@
 Summary:	Utilities to create and check MS-DOS FAT filesystems
 Name:		dosfstools
-Version:	3.0.22
+Version:	3.0.23
 Release:	1
 License:	GPL v3
 Group:		Applications/System
 #Source0:	http://www.daniel-baumann.ch/software/dosfstools/%{name}-%{version}.tar.bz2
 Source0:	http://ftp.debian.org/debian/pool/main/d/dosfstools/%{name}_%{version}.orig.tar.xz
-# Source0-md5:	301f01ca8a734011c0257134bcf475c8
+# Source0-md5:	bfdca786880a7f1cc9ce8ac68cb1fd51
 URL:		http://www.daniel-baumann.ch/software/dosfstools/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
